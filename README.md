@@ -1,2 +1,3 @@
 # atharva-demo
-my first git repository
+git repository
+Authot - Atharva Lal shrestha
