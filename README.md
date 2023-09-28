@@ -1,3 +1,3 @@
 # atharva-demo
 git repository
-Authot - Atharva Lal shrestha
+Author - Atharva Lal shrestha
